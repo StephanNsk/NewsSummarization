@@ -1,0 +1,2 @@
+rouge==1.0.0
+deep-translator==1.4.1
