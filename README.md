@@ -2,7 +2,7 @@
 
 ### Описание
 
-Модель [mBaRT-50](https://arxiv.org/pdf/2008.00401.pdf), затюненная для задачи генерации заголовков новостных статей на русском языке на датасете [ria_news_dataset](https://github.com/RossiyaSegodnya/ria_news_dataset).
+Модель [mBART-50](https://arxiv.org/pdf/2008.00401.pdf), затюненная для задачи генерации заголовков новостных статей на русском языке на датасете [ria_news_dataset](https://github.com/RossiyaSegodnya/ria_news_dataset).
 
 
 ### Trained model and tokenizer
